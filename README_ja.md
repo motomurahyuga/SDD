@@ -3,7 +3,7 @@
 > 外部APIの更新にどう対応したかは、[#98](https://github.com/elvezjp/SDD/issues/98) から調査、判断、修正の流れをたどれます。
 
 # SDD（仕様駆動開発） 練習用リポジトリ
-
+私の現場で、まずREADMEを育ててみます。
 [English](./README.md) | [日本語](./README_ja.md)
 
 [![Elvez](https://img.shields.io/badge/Elvez-Product-3F61A7?style=flat-square)](https://elvez.co.jp/)
